@@ -38,11 +38,11 @@ Este trabajo nos permitió profundizar en estructuras jerárquicas como los árb
 - `arboles.py`: Código fuente del árbol binario de búsqueda.
 - `Lezcano Thomas, Gomez Sosa - Trabajo Practico Integrador Programacion I.pdf`: Informe teórico-práctico del trabajo.
 - `capturas/`: Carpeta con imágenes del código y su ejecución.
-- Enlace al video: [Presentación en YouTube](https://www.youtube.com/watch?v=1pvRhuns8iI&t=32s)
+- Enlace al video: [Presentación en YouTube](https://youtu.be/1pvRhuns8iI?si=NB37tNzsNWagXYsj)
 
 ### Instrucciones de uso 
 - 1) Clonar este repositorio o descargarlo como archivo .ZIP.
 - 2) Abrir el archivo Lezcano Thomas, Gomez Sosa - Trabajo Practico Integrador Programacion I.pdf para consultar el informe completo.
 - 3) Ejecutar arbol.py con Python 3 desde la terminal para ver el funcionamiento del árbol binario de búsqueda.
 - 4) Consultar la carpeta capturas/ para visualizar imágenes del código y su ejecución.
-- 5) Ver la presentación en video en el siguiente enlace:[Presentación en YouTube](https://www.youtube.com/watch?v=1pvRhuns8iI&t=32s)
+- 5) Ver la presentación en video en el siguiente enlace:[Presentación en YouTube](https://youtu.be/1pvRhuns8iI?si=NB37tNzsNWagXYsj)
