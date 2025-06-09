@@ -1,11 +1,14 @@
 # Trabajo Práctico Integrador – Programación I  
 **Universidad Tecnológica Nacional**  
 **Tecnicatura Universitaria en Programación**  
+
+**Comisión №3**  
 **Fecha de entrega:** 09 de Junio de 2025
 
 ## Árboles en Python – Implementación y recorridos en un Árbol Binario de Búsqueda
 
-###  Integrantes
+###  Integrantes 
+
 - Lis Araceli Lezcano Thomas – lis.lezcano@tupad.utn.edu.ar  
 - Axel Nicolás Gómez Sosa – axelgo.sosa@gmail.com
 
